@@ -1,1 +1,4 @@
 .idea/
+mc-mgmt-client.iml
+
+node_modules/
