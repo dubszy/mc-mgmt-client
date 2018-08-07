@@ -2,3 +2,6 @@
 mc-mgmt-client.iml
 
 node_modules/
+
+client/dist/bundle.js
+config/env.json
